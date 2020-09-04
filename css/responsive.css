@@ -1,0 +1,214 @@
+@media (min-width:375px) and (max-width:767px) {
+
+
+	/*serviços*/
+
+	#firstDiv1{
+		margin-top: 0%;
+		text-align: center;
+		font-size: 230%;
+		color: #c55d38;
+		margin-bottom: 3%;
+	}
+
+	#firstDiv2{
+		margin-top: 0%;
+		font-size: 110%;
+		color: #c55d38;
+		text-align: justify;
+		font-family: 'M PLUS Rounded 1c', sans-serif;
+		margin-bottom: 3%;
+
+	}
+
+	#firstDiv3{
+		margin-top: -0%;
+		font-size: 110%;
+		color: #c55d38;
+		font-family: 'M PLUS Rounded 1c', sans-serif;
+		margin-bottom: 3%;
+	}
+
+	#firstDiv4{
+		margin-top: -0%;
+		font-size: 110%;
+		color: #c55d38;
+		font-weight:bold;
+		font-family: 'M PLUS Rounded 1c', sans-serif;
+		margin-bottom: 3%;
+	}
+
+	#firstDiv5{
+		margin-top: -0%;
+		font-size: 110%;
+		color: #c55d38;
+		font-weight:bold;
+		font-family: 'M PLUS Rounded 1c', sans-serif;
+		margin-bottom: 3%;
+	}
+
+	#firstDiv6{
+		margin-top: -0%;
+		font-size: 110%;
+		color: #c55d38;
+		font-weight:bold;
+		margin-bottom: 3%;
+		font-family: 'M PLUS Rounded 1c', sans-serif;
+	}
+
+	#firstDiv7{
+		margin-top: -0%;
+		font-size: 110%;
+		color: #c55d38;
+		font-weight:bold;
+		font-family: 'M PLUS Rounded 1c', sans-serif;
+		margin-bottom: 3%;
+	}
+
+	#firstDiv8{
+		margin-top: -0%;
+		margin-bottom: 2%;
+		font-size: 110%;
+		color: #c55d38;
+		font-family: 'M PLUS Rounded 1c', sans-serif;
+	}
+
+	.h1s{
+		font-size: 250%;
+		
+	}
+	.ps{
+		text-align: center;
+		font-size: 150%;
+	}
+
+	#space{
+		margin-bottom: 10%;
+	}
+
+	#tablet{
+	height: 250px;
+	border-bottom-left-radius: 0px ;
+	border-top-right-radius: 10px ;
+	border-top-left-radius: 10px ;
+	}
+	#tablet2{
+	height: 250px;		
+	border-left:  solid 3px #c55d38;
+	border-right: solid 3px #c55d38;
+	border-bottom: none;
+	}
+	#tablet3{		
+		height: 250px;		
+		border-bottom: none;
+		border-left: solid 3px #c55d38;
+		border-right: solid 3px #c55d38;
+	}
+	#tablet4{		
+		height: 250px;		
+		border-top-right-radius: 0px ;
+		border-bottom-right-radius: 10px ;
+		border-bottom-left-radius: 10px ;
+	}
+
+	#pensado{
+		text-align: center;
+		margin-bottom:-5%;
+	}
+
+	#pensado2{
+		margin-bottom: 10%;
+	}
+
+	.razoes{
+		font-size: 200%;
+	}
+
+	.razoes2{
+		margin-left: 0;
+	}
+
+	.worker{
+		margin-left: 0;
+		font-size: 180%;
+	}
+
+	.caxer{
+		margin-left: 7.5%;
+	}
+	.caxer2{
+		margin-left: 27%;
+	}
+
+	/*portifolio*/
+
+	#botaozin{
+		margin-top: 5%;
+		margin-left: 25%;
+	}
+
+	.iframer{
+	width:530px;
+	height:430px; 
+	}
+
+
+	/*dizem*/	
+
+	#falante{		
+		margin-bottom: 20%;
+	}
+
+	.cabeca{
+		margin-top: -18%;
+		margin-left: 32%;
+		margin-bottom: 5%;
+		width: 35%;
+	}
+	/*clientes*/
+
+	.separation{
+	margin-left: 25%;
+	}
+
+	.separation1{
+	margin-left: 20%;
+	margin-bottom: -20%;
+	}
+
+		/*contato*/
+
+	.iter{
+		font-size: 122%;
+		text-align: center;
+	}
+
+	.contatinho{
+		margin-left: 1%;
+	}
+
+	#ajustinho{
+		margin-left: 0%;
+	}
+
+	.forminho{
+		margin-left: -32%;
+		width: 100%;
+		margin-bottom: 40px;	
+	}
+
+	.maper{
+		margin-left: 12%;
+	}
+
+	.mapinha{
+		width: 290px;
+		height: 246px;
+	}
+	.ajeitin1{
+	width: 10%;
+	margin-left: 12%;
+	padding-right: 2%;
+	margin-top: -15%;
+	}
+}
